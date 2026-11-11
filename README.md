@@ -1,6 +1,6 @@
 # Hi 👋, I'm Himanshu Singh
 
-### Full Stack Developer | MERN Stack Developer
+### Full Stack Developer | Java Full Stack Developer | Mern Stack Developer
 
 ---
 
